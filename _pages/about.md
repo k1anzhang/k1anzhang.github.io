@@ -17,10 +17,10 @@ I am **Kaiyi Zhang**, an M.S. student in Artificial Intelligence at **Renmin Uni
 My research interests lie broadly in **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**, especially **LLM reasoning**. Recently, I have been working on reinforcement learning for LLM reasoning. 
 # 🔥 News
 
-* *2026.05*:  🎉 Our preprint **DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards** is released. [Paper](https://arxiv.org/abs/2605.21467) / [Code](https://github.com/RUCBM/DelTA)
-* *2026*:  🎉 Our paper **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** is accepted to **ACL 2026**. [Paper](https://aclanthology.org/2026.acl-long.1755/) / [arXiv](https://arxiv.org/abs/2507.02841)
+* *2026.05*:  🎉 Our preprint **DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards** is released. [Paper](https://arxiv.org/abs/2605.21467) 
+* *2026*:  🎉 Our paper **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** is accepted to **ACL 2026**. [Paper](https://aclanthology.org/2026.acl-long.1755/) 
 * *2024.11*:  🎉 Our paper **An Analysis and Mitigation of the Reversal Curse** is accepted to **EMNLP 2024**. [Paper](https://aclanthology.org/2024.emnlp-main.754/)
-* *2024.08*:  🎉 Our paper **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** appears in **Findings of ACL 2024**. [Paper](https://aclanthology.org/2024.findings-acl.638/) / [Code](https://github.com/Cardinalere/Batch-ICL)
+* *2024.08*:  🎉 Our paper **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** appears in **Findings of ACL 2024**. [Paper](https://aclanthology.org/2024.findings-acl.638/) 
 
 # 📝 Publications
 
@@ -31,7 +31,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 **Kaiyi Zhang**, Wei Wu, Yankai Lin
 
-[**Paper**](https://arxiv.org/abs/2605.21467) / [**Code**](https://github.com/RUCBM/DelTA)
+[**Paper**](https://arxiv.org/abs/2605.21467) 
 
 * We introduce a discriminator view of RLVR updates, showing how response-level rewards induce token-level probability changes.
 * DelTA improves RLVR by reweighting token-gradient directions according to their discriminative signal between positive- and negative-reward responses.
@@ -46,7 +46,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 **Kaiyi Zhang**, Ang Lv, Jinpeng Li, Yongbo Wang, Feng Wang, Haoyuan Hu, Rui Yan
 
-[**Paper**](https://aclanthology.org/2026.acl-long.1755/) / [**arXiv**](https://arxiv.org/abs/2507.02841)
+[**Paper**](https://aclanthology.org/2026.acl-long.1755/) 
 
 * We propose StepHint, an RLVR algorithm that uses adaptive multi-level stepwise hints to guide exploration and improve mathematical reasoning.
 * The method helps models move beyond their comfort zone by introducing external reasoning pathways while preserving independent exploration.
@@ -62,7 +62,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 **Kaiyi Zhang***, Ang Lv*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
 * Equal contribution
 
-[**Paper**](https://aclanthology.org/2024.findings-acl.638/) / [**arXiv**](https://arxiv.org/abs/2401.06469) / [**Code**](https://github.com/Cardinalere/Batch-ICL)
+[**Paper**](https://aclanthology.org/2024.findings-acl.638/) 
 
 * We interpret in-context learning as a meta-optimization process and explain why LLMs are sensitive to demonstration order.
 * Batch-ICL performs multiple independent 1-shot forward passes and aggregates their meta-gradients, making ICL more order-agnostic and efficient.
@@ -78,7 +78,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 Ang Lv*, **Kaiyi Zhang***, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan
 * Equal contribution
 
-[**Paper**](https://aclanthology.org/2024.emnlp-main.754/) / [**arXiv**](https://arxiv.org/abs/2311.07468) / [**Code**](https://github.com/trestad/mitigating-reversal-curse)
+[**Paper**](https://aclanthology.org/2024.emnlp-main.754/) 
 
 * We study how the reversal curse emerges in LLMs and show that training objectives can be an important contributing factor.
 * We propose BICO, an ABI-like fine-tuning method for causal language models, to mitigate the reversal curse without requiring explicit reverse data.
@@ -94,10 +94,6 @@ Ang Lv*, **Kaiyi Zhang***, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Ya
 **Kaiyi Zhang***, Xueliang Zhao*, Zhuocheng Gong, Wei Wu, Yankai Lin
 * Equal contribution
 
-[**Manuscript**](#)
-
-* We identify **Trust Region Collapse**, a failure mode where multi-round model routers suppress expert usage under sparse supervision.
-* EntroRouter uses soft supervision and soft-anchor RL to regulate routing entropy, retaining most of the strongest expert's accuracy while substantially reducing inference cost.
 
 </div>
 </div>
