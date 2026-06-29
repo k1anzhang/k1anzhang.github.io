@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaiyi Kian Zhang"
+title                    : "Kaiyi Zhang"
 description              : "M.S student at Gaoling School of Artificial Intelligence (GSAI), Renmin University of China "
 repository               : "k1anzhang/k1anzhang.github.io"
 google_scholar_stats_use_cdn : false
