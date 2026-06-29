@@ -97,7 +97,8 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
   Research Intern.
 # 🔍 Research Interests
 
-* Large Language Models and Natural Language Processing
-* LLM Reasoning and Post-training
+* Large Language Models
+* Natural Language Processing
+* LLM Reasoning 
 * Reinforcement Learning 
 * Agentic RL 
