@@ -72,7 +72,6 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 - [**An Analysis and Mitigation of the Reversal Curse**](https://aclanthology.org/2024.emnlp-main.754/)  
   Ang Lv<sup>*</sup>, **Kaiyi Zhang**<sup>*</sup>, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan.  
   **EMNLP 2024**. <sup>*</sup> Equal contribution.  
-  We study how the reversal curse emerges in LLMs and show that training objectives can be an important contributing factor.
 
 - **EntroRouter: Learning Efficient Model Routing via Entropy Regulation**  
   **Kaiyi Zhang**<sup>*</sup>, Xueliang Zhao<sup>*</sup>, Zhuocheng Gong, Wei Wu, Yankai Lin.  
