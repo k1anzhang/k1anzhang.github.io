@@ -37,7 +37,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main/div><img src='https://raw.githubusercontent.com/k1anzhang/k1anzhang.github.io/main/images/stephint.png' alt="StepHint" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='https://raw.githubusercontent.com/k1anzhang/k1anzhang.github.io/main/images/stephint.png' alt="StepHint" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](https://aclanthology.org/2026.acl-long.1755/)
