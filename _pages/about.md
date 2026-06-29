@@ -24,7 +24,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src="{{ '/images/delta.png' | relative_url }}" alt="DelTA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='https://github.com/k1anzhang/k1anzhang.github.io/blob/main/images/delta.png' alt="DelTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.21467)
@@ -39,7 +39,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src="{{ '/images/stephint.png' | relative_url }}" alt="StepHint" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src="https://github.com/k1anzhang/k1anzhang.github.io/blob/main/images/stephint.png" alt="StepHint" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](https://aclanthology.org/2026.acl-long.1755/)
@@ -54,7 +54,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src="{{ '/images/batchicl.png' | relative_url }}" alt="Batch-ICL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='https://github.com/k1anzhang/k1anzhang.github.io/blob/main/images/batchicl.png' alt="Batch-ICL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/)
