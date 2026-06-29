@@ -57,9 +57,6 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/)
 
 **Kaiyi Zhang**<sup>*</sup>, Ang Lv<sup>*</sup>, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
-* Equal contribution
-
-
 
 * We interpret in-context learning as a meta-optimization process and explain why LLMs are sensitive to demonstration order.
 * Batch-ICL performs multiple independent 1-shot forward passes and aggregates their meta-gradients, making ICL more order-agnostic and efficient.
