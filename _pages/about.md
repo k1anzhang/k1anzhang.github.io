@@ -56,7 +56,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/)
 
-**Kaiyi Zhang***, Ang Lv*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+**Kaiyi Zhang**<sup>*</sup>, Ang Lv<sup>*</sup>, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
 * Equal contribution
 
 
@@ -71,11 +71,10 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 - [**An Analysis and Mitigation of the Reversal Curse**](https://aclanthology.org/2024.emnlp-main.754/)  
   Ang Lv<sup>*</sup>, **Kaiyi Zhang**<sup>*</sup>, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan.  
-  **EMNLP 2024**. <sup>*</sup> Equal contribution.  
-
+  **EMNLP 2024**. 
 - **EntroRouter: Learning Efficient Model Routing via Entropy Regulation**  
   **Kaiyi Zhang**<sup>*</sup>, Xueliang Zhao<sup>*</sup>, Zhuocheng Gong, Wei Wu, Yankai Lin.  
-  **Preprint, 2026**. <sup>*</sup> Equal contribution.  
+  **Preprint, 2026**. 
 
 
 # 🎖 Honors and Awards
