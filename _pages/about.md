@@ -1,11 +1,14 @@
 ---
+
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,42 +20,123 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Kaiyi Zhang**, an M.S. student in Artificial Intelligence at **Renmin University of China**, advised by Prof. [Yankai Lin](https://linyankai.github.io/). Before that, I received my B.Eng. in Computer Science and Technology from **Shandong University**, where I was selected into **Taishan College**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+My research interests lie broadly in **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**, especially **LLM reasoning**. Recently, I have been working on reinforcement learning for LLM reasoning. 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+* *2026.05*:  🎉 Our preprint **DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards** is released. [Paper](https://arxiv.org/abs/2605.21467) / [Code](https://github.com/RUCBM/DelTA)
+* *2026*:  🎉 Our paper **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** is accepted to **ACL 2026**. [Paper](https://aclanthology.org/2026.acl-long.1755/) / [arXiv](https://arxiv.org/abs/2507.02841)
+* *2024.11*:  🎉 Our paper **An Analysis and Mitigation of the Reversal Curse** is accepted to **EMNLP 2024**. [Paper](https://aclanthology.org/2024.emnlp-main.754/)
+* *2024.08*:  🎉 Our paper **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** appears in **Findings of ACL 2024**. [Paper](https://aclanthology.org/2024.findings-acl.638/) / [Code](https://github.com/Cardinalere/Batch-ICL)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/delta.png' alt="DelTA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.21467)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Kaiyi Zhang**, Wei Wu, Yankai Lin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2605.21467) / [**Code**](https://github.com/RUCBM/DelTA)
+
+* We introduce a discriminator view of RLVR updates, showing how response-level rewards induce token-level probability changes.
+* DelTA improves RLVR by reweighting token-gradient directions according to their discriminative signal between positive- and negative-reward responses.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/stephint.png' alt="StepHint" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](https://aclanthology.org/2026.acl-long.1755/)
+
+**Kaiyi Zhang**, Ang Lv, Jinpeng Li, Yongbo Wang, Feng Wang, Haoyuan Hu, Rui Yan
+
+[**Paper**](https://aclanthology.org/2026.acl-long.1755/) / [**arXiv**](https://arxiv.org/abs/2507.02841)
+
+* We propose StepHint, an RLVR algorithm that uses adaptive multi-level stepwise hints to guide exploration and improve mathematical reasoning.
+* The method helps models move beyond their comfort zone by introducing external reasoning pathways while preserving independent exploration.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/batch-icl.png' alt="Batch-ICL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/)
+
+**Kaiyi Zhang***, Ang Lv*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+* Equal contribution
+
+[**Paper**](https://aclanthology.org/2024.findings-acl.638/) / [**arXiv**](https://arxiv.org/abs/2401.06469) / [**Code**](https://github.com/Cardinalere/Batch-ICL)
+
+* We interpret in-context learning as a meta-optimization process and explain why LLMs are sensitive to demonstration order.
+* Batch-ICL performs multiple independent 1-shot forward passes and aggregates their meta-gradients, making ICL more order-agnostic and efficient.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/reversal-curse.png' alt="Reversal Curse" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Analysis and Mitigation of the Reversal Curse](https://aclanthology.org/2024.emnlp-main.754/)
+
+Ang Lv*, **Kaiyi Zhang***, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan
+* Equal contribution
+
+[**Paper**](https://aclanthology.org/2024.emnlp-main.754/) / [**arXiv**](https://arxiv.org/abs/2311.07468) / [**Code**](https://github.com/trestad/mitigating-reversal-curse)
+
+* We study how the reversal curse emerges in LLMs and show that training objectives can be an important contributing factor.
+* We propose BICO, an ABI-like fine-tuning method for causal language models, to mitigate the reversal curse without requiring explicit reverse data.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/entrorouter.png' alt="EntroRouter" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EntroRouter: Learning Efficient Model Routing via Entropy Regulation**
+
+**Kaiyi Zhang***, Xueliang Zhao*, Zhuocheng Gong, Wei Wu, Yankai Lin
+* Equal contribution
+
+[**Manuscript**](#)
+
+* We identify **Trust Region Collapse**, a failure mode where multi-round model routers suppress expert usage under sparse supervision.
+* EntroRouter uses soft supervision and soft-anchor RL to regulate routing entropy, retaining most of the strongest expert's accuracy while substantially reducing inference cost.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* *2024*: First-Class Academic Scholarship, Renmin University of China.
+* *2022*: First-Class Academic Scholarship, Shandong University.
+* *2017, 2018*: Provincial First Prize, National Olympiad in Informatics in Provinces (NOIP).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+
+* *2024.09 - Present*, **Renmin University of China**, Beijing, China.
+  M.S. Student in Artificial Intelligence. Advisor: Prof. [Yankai Lin](https://linyankai.github.io/).
+
+* *2020.09 - 2024.06*, **Shandong University**, Qingdao, China.
+  B.Eng. in Computer Science and Technology. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+* *2025.09 - Present*, **Ant International**, Beijing, China.
+  Research Intern. Working on LLM reasoning, reinforcement learning, and model routing.
+
+* *2025.02 - 2025.08*, **Ant Group**, Beijing, China.
+  Research Intern. Worked on reinforcement learning for LLM reasoning, leading to StepHint.
+
+# 🔍 Research Interests
+
+* Large Language Models and Natural Language Processing
+* LLM Reasoning and Post-training
+* Reinforcement Learning from Verifiable Rewards
+* Token-level Credit Assignment
+* In-context Learning and Meta-optimization
+* Long-horizon Agentic RL and Tool-use Agents
