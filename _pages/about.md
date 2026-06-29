@@ -11,14 +11,6 @@ redirect_from:
 
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
 
 I am **Kaiyi Zhang**, an M.S. student in Artificial Intelligence at **Renmin University of China**, advised by Prof. [Yankai Lin](https://linyankai.github.io/). Before that, I received my B.Eng. in Computer Science and Technology from **Shandong University**, where I was selected into **Taishan College**.
 
