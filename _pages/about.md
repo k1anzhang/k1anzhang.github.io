@@ -91,16 +91,13 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 # 💻 Internships
 
 * *2025.09 - Present*, **Ant International**, Beijing, China.
-  Research Intern. Working on LLM reasoning, reinforcement learning, and model routing.
+  Research Intern. 
 
 * *2025.02 - 2025.08*, **Ant Group**, Beijing, China.
-  Research Intern. Worked on reinforcement learning for LLM reasoning, leading to StepHint.
-
+  Research Intern.
 # 🔍 Research Interests
 
 * Large Language Models and Natural Language Processing
 * LLM Reasoning and Post-training
-* Reinforcement Learning from Verifiable Rewards
-* Token-level Credit Assignment
-* In-context Learning and Meta-optimization
-* Long-horizon Agentic RL and Tool-use Agents
+* Reinforcement Learning 
+* Agentic RL 
