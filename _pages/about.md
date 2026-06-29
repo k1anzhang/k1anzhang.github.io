@@ -16,7 +16,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 # 🔥 News
 
 * *2026.05*:  🎉 Our preprint **DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards** is released. [Paper](https://arxiv.org/abs/2605.21467) 
-* *2026*:  🎉 Our paper **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** is accepted to **ACL 2026**. [Paper](https://aclanthology.org/2026.acl-long.1755/) 
+* *2026.06*:  🎉 Our paper **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** is accepted to **ACL 2026**. [Paper](https://aclanthology.org/2026.acl-long.1755/) 
 * *2024.11*:  🎉 Our paper **An Analysis and Mitigation of the Reversal Curse** is accepted to **EMNLP 2024**. [Paper](https://aclanthology.org/2024.emnlp-main.754/)
 * *2024.08*:  🎉 Our paper **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** appears in **Findings of ACL 2024**. [Paper](https://aclanthology.org/2024.findings-acl.638/) 
 
