@@ -29,7 +29,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 **Kaiyi Zhang**, Wei Wu, Yankai Lin
 
-[**Paper**](https://arxiv.org/abs/2605.21467) 
+
 
 * We introduce a discriminator view of RLVR updates, showing how response-level rewards induce token-level probability changes.
 * DelTA improves RLVR by reweighting token-gradient directions according to their discriminative signal between positive- and negative-reward responses.
@@ -44,7 +44,6 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 
 **Kaiyi Zhang**, Ang Lv, Jinpeng Li, Yongbo Wang, Feng Wang, Haoyuan Hu, Rui Yan
 
-[**Paper**](https://aclanthology.org/2026.acl-long.1755/) 
 
 * We propose StepHint, an RLVR algorithm that uses adaptive multi-level stepwise hints to guide exploration and improve mathematical reasoning.
 * The method helps models move beyond their comfort zone by introducing external reasoning pathways while preserving independent exploration.
@@ -60,7 +59,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 **Kaiyi Zhang***, Ang Lv*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
 * Equal contribution
 
-[**Paper**](https://aclanthology.org/2024.findings-acl.638/) 
+
 
 * We interpret in-context learning as a meta-optimization process and explain why LLMs are sensitive to demonstration order.
 * Batch-ICL performs multiple independent 1-shot forward passes and aggregates their meta-gradients, making ICL more order-agnostic and efficient.
@@ -69,26 +68,16 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 </div>
 
 
-[An Analysis and Mitigation of the Reversal Curse](https://aclanthology.org/2024.emnlp-main.754/)
 
-Ang Lv*, **Kaiyi Zhang***, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan
-* Equal contribution
+- [**An Analysis and Mitigation of the Reversal Curse**](https://aclanthology.org/2024.emnlp-main.754/)  
+  Ang Lv<sup>*</sup>, **Kaiyi Zhang**<sup>*</sup>, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan.  
+  **EMNLP 2024**. <sup>*</sup> Equal contribution.  
+  We study how the reversal curse emerges in LLMs and show that training objectives can be an important contributing factor.
 
-[**Paper**](https://aclanthology.org/2024.emnlp-main.754/) 
+- **EntroRouter: Learning Efficient Model Routing via Entropy Regulation**  
+  **Kaiyi Zhang**<sup>*</sup>, Xueliang Zhao<sup>*</sup>, Zhuocheng Gong, Wei Wu, Yankai Lin.  
+  **Preprint, 2026**. <sup>*</sup> Equal contribution.  
 
-
-</div>
-</div>
-
-
-**EntroRouter: Learning Efficient Model Routing via Entropy Regulation**
-
-**Kaiyi Zhang***, Xueliang Zhao*, Zhuocheng Gong, Wei Wu, Yankai Lin
-* Equal contribution
-
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 
