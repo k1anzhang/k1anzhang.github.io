@@ -54,7 +54,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/batch-icl.png' alt="Batch-ICL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/batchicl.png' alt="Batch-ICL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/)
