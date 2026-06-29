@@ -1,15 +1,13 @@
 ---
-
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 
 I am **Kaiyi Zhang**, an M.S. student in Artificial Intelligence at **Renmin University of China**, advised by Prof. [Yankai Lin](https://linyankai.github.io/). Before that, I received my B.Eng. in Computer Science and Technology from **Shandong University**, where I was selected into **Taishan College**.
