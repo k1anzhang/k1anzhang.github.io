@@ -104,4 +104,4 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 * Natural Language Processing
 * LLM Reasoning 
 * Reinforcement Learning 
-* Agentic RL 
+* LLM based agent
