@@ -85,7 +85,7 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
 # 📖 Education
 
 * *2024.09 - Present*, **Renmin University of China**, Beijing, China.
-  M.S. Student in Artificial Intelligence. Advisor: Prof. [Yankai Lin](https://linyankai.github.io/).
+  M.S. Student at the Gaoling School of Artificial Intelligence. Advisor: Prof. [Yankai Lin](https://linyankai.github.io/).
 
 * *2020.09 - 2024.06*, **Shandong University**, Qingdao, China.
   B.Eng. in Computer Science and Technology. 
