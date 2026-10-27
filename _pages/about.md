@@ -74,7 +74,10 @@ My research interests lie broadly in **Large Language Models (LLMs)** and **Natu
   
   **Kaiyi Zhang**<sup>*</sup>, Xueliang Zhao<sup>*</sup>, Zhuocheng Gong, Wei Wu, Yankai Lin.  
   **Preprint, 2026**. 
-
+- [**Interpreting key mechanisms of factual recall in transformer-based language models**](https://arxiv.org/pdf/2403.19521?)
+  
+  Ang Lv<sup>*</sup>, Yuhan Chen<sup>*</sup>, **Kaiyi Zhang**<sup>*</sup>, et al.
+  **Preprint, 2024**. 
 
 # 🎖 Honors and Awards
 
